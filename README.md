@@ -6,7 +6,8 @@ This Power BI dashboard provides a comprehensive analysis of sales performance, 
 ---
 
 ## Dashboard
-![dashboard](https://github.com/user-attachments/assets/1d408354-1ea9-4923-9e45-ec8929939f0f)
+![dashboard](https://github.com/user-attachments/assets/becb7015-b9f6-4abf-9d60-e54a8573c29a)
+
 
 ---
 ## Features
